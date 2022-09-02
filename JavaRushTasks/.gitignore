@@ -1,0 +1,14 @@
+﻿
+target/
+.idea/
+.repository/
+*.iml
+*.iws
+*.info
+*.properties
+*tmp.drivedownload
+*.driveupload
+/out/
+/JavaRushPlugin.properties
+/Инструкция.png
+/out.log
